@@ -1,0 +1,79 @@
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\Quan ly ban quan ao.exe.config
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\Quan ly ban quan ao.exe
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\Quan ly ban quan ao.pdb
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\obj\Debug\Quan ly ban quan ao.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\obj\Debug\Quan_ly_ban_quan_ao.Form1.resources
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\obj\Debug\Quan_ly_ban_quan_ao.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\obj\Debug\Quan ly ban quan ao.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\obj\Debug\Quan ly ban quan ao.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\obj\Debug\Quan ly ban quan ao.exe
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\obj\Debug\Quan ly ban quan ao.pdb
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\obj\Debug\Quan_ly_ban_quan_ao.Form2.resources
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\obj\Debug\Quan_ly_ban_quan_ao.Form3.resources
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\obj\Debug\Quan_ly_ban_quan_ao.Form6.resources
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\obj\Debug\Quan_ly_ban_quan_ao.Form7.resources
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\obj\Debug\Quan ly ban quan ao.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\obj\Debug\Quan ly ban quan ao.exe.config
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\EnvDTE.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\stdole.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\obj\Debug\Quan ly .67979595.Up2Date
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\obj\Debug\Quan_ly_ban_quan_ao.FormUser.resources
+C:\Users\ADMIN\source\repos\Quan ly ban quan ao\Quan ly ban quan ao\obj\Debug\Quan_ly_ban_quan_ao.FormStatistic.resources
