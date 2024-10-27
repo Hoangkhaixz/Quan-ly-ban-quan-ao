@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\Quan ly ban quan ao\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{67744873-27BB-4C96-B818-B911493AD054}|Quan ly ban quan ao\\Quan ly ban quan ao.csproj|c:\\users\\admin\\source\\repos\\quan ly ban quan ao\\quan ly ban quan ao\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{67744873-27BB-4C96-B818-B911493AD054}|Quan ly ban quan ao\\Quan ly ban quan ao.csproj|solutionrelative:quan ly ban quan ao\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{67744873-27BB-4C96-B818-B911493AD054}|Quan ly ban quan ao\\Quan ly ban quan ao.csproj|C:\\Users\\ADMIN\\source\\repos\\Quan ly ban quan ao\\quan ly ban quan ao\\formstatistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67744873-27BB-4C96-B818-B911493AD054}|Quan ly ban quan ao\\Quan ly ban quan ao.csproj|solutionrelative:quan ly ban quan ao\\formstatistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67744873-27BB-4C96-B818-B911493AD054}|Quan ly ban quan ao\\Quan ly ban quan ao.csproj|C:\\Users\\ADMIN\\source\\repos\\Quan ly ban quan ao\\quan ly ban quan ao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67744873-27BB-4C96-B818-B911493AD054}|Quan ly ban quan ao\\Quan ly ban quan ao.csproj|solutionrelative:quan ly ban quan ao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{67744873-27BB-4C96-B818-B911493AD054}|Quan ly ban quan ao\\Quan ly ban quan ao.csproj|C:\\Users\\ADMIN\\source\\repos\\Quan ly ban quan ao\\quan ly ban quan ao\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67744873-27BB-4C96-B818-B911493AD054}|Quan ly ban quan ao\\Quan ly ban quan ao.csproj|solutionrelative:quan ly ban quan ao\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67744873-27BB-4C96-B818-B911493AD054}|Quan ly ban quan ao\\Quan ly ban quan ao.csproj|c:\\users\\admin\\source\\repos\\quan ly ban quan ao\\quan ly ban quan ao\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67744873-27BB-4C96-B818-B911493AD054}|Quan ly ban quan ao\\Quan ly ban quan ao.csproj|solutionrelative:quan ly ban quan ao\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{67744873-27BB-4C96-B818-B911493AD054}|Quan ly ban quan ao\\Quan ly ban quan ao.csproj|C:\\Users\\ADMIN\\source\\repos\\Quan ly ban quan ao\\quan ly ban quan ao\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -39,14 +47,6 @@
       "RelativeMoniker": "D:0:0:{67744873-27BB-4C96-B818-B911493AD054}|Quan ly ban quan ao\\Quan ly ban quan ao.csproj|solutionrelative:quan ly ban quan ao\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67744873-27BB-4C96-B818-B911493AD054}|Quan ly ban quan ao\\Quan ly ban quan ao.csproj|C:\\Users\\ADMIN\\source\\repos\\Quan ly ban quan ao\\quan ly ban quan ao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{67744873-27BB-4C96-B818-B911493AD054}|Quan ly ban quan ao\\Quan ly ban quan ao.csproj|solutionrelative:quan ly ban quan ao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67744873-27BB-4C96-B818-B911493AD054}|Quan ly ban quan ao\\Quan ly ban quan ao.csproj|C:\\Users\\ADMIN\\source\\repos\\Quan ly ban quan ao\\quan ly ban quan ao\\formstatistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{67744873-27BB-4C96-B818-B911493AD054}|Quan ly ban quan ao\\Quan ly ban quan ao.csproj|solutionrelative:quan ly ban quan ao\\formstatistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{67744873-27BB-4C96-B818-B911493AD054}|Quan ly ban quan ao\\Quan ly ban quan ao.csproj|C:\\Users\\ADMIN\\source\\repos\\Quan ly ban quan ao\\quan ly ban quan ao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67744873-27BB-4C96-B818-B911493AD054}|Quan ly ban quan ao\\Quan ly ban quan ao.csproj|solutionrelative:quan ly ban quan ao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -70,23 +70,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form4.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Quan ly ban quan ao\\Quan ly ban quan ao\\Form4.cs",
-              "RelativeDocumentMoniker": "Quan ly ban quan ao\\Form4.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Quan ly ban quan ao\\Quan ly ban quan ao\\Form4.cs [Design]",
-              "RelativeToolTip": "Quan ly ban quan ao\\Form4.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T07:36:39.837Z",
-              "EditorCaption": " [Design]"
             },
             {
               "$type": "Bookmark",
@@ -102,7 +90,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Quan ly ban quan ao\\Quan ly ban quan ao\\Form4.cs",
+              "RelativeDocumentMoniker": "Quan ly ban quan ao\\Form4.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Quan ly ban quan ao\\Quan ly ban quan ao\\Form4.cs [Design]",
+              "RelativeToolTip": "Quan ly ban quan ao\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T07:36:39.837Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form6.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Quan ly ban quan ao\\Quan ly ban quan ao\\Form6.cs",
               "RelativeDocumentMoniker": "Quan ly ban quan ao\\Form6.cs",
@@ -110,7 +110,8 @@
               "RelativeToolTip": "Quan ly ban quan ao\\Form6.cs",
               "ViewState": "AgIAAA8BAAAAAAAAAAAmwCQBAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T11:10:11.112Z"
+              "WhenOpened": "2024-10-13T11:10:11.112Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -122,22 +123,24 @@
               "RelativeToolTip": "Quan ly ban quan ao\\Form1.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAwwBkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T04:23:31.457Z"
+              "WhenOpened": "2024-10-16T04:23:31.457Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "FormStatistic.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Quan ly ban quan ao\\Quan ly ban quan ao\\FormStatistic.cs",
               "RelativeDocumentMoniker": "Quan ly ban quan ao\\FormStatistic.cs",
               "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Quan ly ban quan ao\\Quan ly ban quan ao\\FormStatistic.cs [Design]",
               "RelativeToolTip": "Quan ly ban quan ao\\FormStatistic.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T04:11:02.879Z"
+              "WhenOpened": "2024-10-20T04:11:02.879Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Form3.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Quan ly ban quan ao\\Quan ly ban quan ao\\Form3.cs",
               "RelativeDocumentMoniker": "Quan ly ban quan ao\\Form3.cs",
@@ -149,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Form3.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Quan ly ban quan ao\\Quan ly ban quan ao\\Form3.cs",
               "RelativeDocumentMoniker": "Quan ly ban quan ao\\Form3.cs",
@@ -160,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Form4.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Quan ly ban quan ao\\Quan ly ban quan ao\\Form4.cs",
               "RelativeDocumentMoniker": "Quan ly ban quan ao\\Form4.cs",
@@ -172,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Form7.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Quan ly ban quan ao\\Quan ly ban quan ao\\Form7.cs",
               "RelativeDocumentMoniker": "Quan ly ban quan ao\\Form7.cs",
@@ -195,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Quan ly ban quan ao\\Quan ly ban quan ao\\Program.cs",
               "RelativeDocumentMoniker": "Quan ly ban quan ao\\Program.cs",
@@ -230,29 +233,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Form6.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Quan ly ban quan ao\\Quan ly ban quan ao\\Form6.cs",
               "RelativeDocumentMoniker": "Quan ly ban quan ao\\Form6.cs",
               "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Quan ly ban quan ao\\Quan ly ban quan ao\\Form6.cs [Design]",
               "RelativeToolTip": "Quan ly ban quan ao\\Form6.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T11:08:07.097Z"
+              "WhenOpened": "2024-10-13T11:08:07.097Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Quan ly ban quan ao\\Quan ly ban quan ao\\Form1.cs",
               "RelativeDocumentMoniker": "Quan ly ban quan ao\\Form1.cs",
               "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Quan ly ban quan ao\\Quan ly ban quan ao\\Form1.cs [Design]",
               "RelativeToolTip": "Quan ly ban quan ao\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T10:33:12.358Z"
+              "WhenOpened": "2024-10-13T10:33:12.358Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Form7.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Quan ly ban quan ao\\Quan ly ban quan ao\\Form7.cs",
               "RelativeDocumentMoniker": "Quan ly ban quan ao\\Form7.cs",
